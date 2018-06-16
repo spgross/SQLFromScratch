@@ -1,4 +1,4 @@
-#Question 1 code:
+Question 1 code:
 
 SELECT *
 FROM survey
